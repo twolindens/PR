@@ -1,6 +1,6 @@
 # PR
 
-A repository for public content to share knowledge content.
+A repository with public content to explain complex topics with viusals.
 
 Content List:
 - VMSContainer: Visual comparison diagram between Virtual Machines and Containers
